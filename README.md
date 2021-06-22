@@ -1,2 +1,5 @@
+<p align="center">
 I am a programming newbie.
-H E L P !
+  <br />
+<b>H E L P !</b>
+</p>
