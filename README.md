@@ -1,1 +1,2 @@
-안녕
+I am a programming newbie.
+H E L P !
